@@ -28,6 +28,6 @@ https://codesandbox.io/embed/github/bhavikbhoir/Narutoverse-Jutsu
    
 ## Contribution
 
-* Fork the sandbox
+* Fork the sandbox or GitHub repo
 * Make your changes
 * Create a PR to the main branch with proper description for the enhancements
