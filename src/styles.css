@@ -1,0 +1,12 @@
+body {
+  background-color: #30425c;
+  color: #fcf7f6;
+  font-family: monospace;
+  text-align: center;
+  padding: 2rem;
+}
+
+.App h1 {
+  font-size: 3rem;
+  margin: 0;
+}
