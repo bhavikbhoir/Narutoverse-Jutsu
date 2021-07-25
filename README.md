@@ -16,7 +16,7 @@ Information on the jutsus used by Narutoverse's Sun vs Moon i.e Rasengan (Naruto
 ## Tools
 
 * Code-Sandbox
-* GitHub Pages for deployment
+* Netlify for deployment
 
 ## Live Version
 
